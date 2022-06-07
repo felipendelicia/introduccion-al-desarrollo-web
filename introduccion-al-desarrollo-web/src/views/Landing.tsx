@@ -13,7 +13,7 @@ const Landing = () => {
           <BigTitle>Aprendé desarrollo web 👩‍💻</BigTitle>
           <Paragraph>
             Hola! soy Felipe y el objetivo de este proyecto es crear una serie
-            de pasos a seguir para poder introducir a alguien al
+            de pasos a seguir para poder introducirte al
             desarrollo web mediante una serie de contenidos que te permitan ser
             capaz de desempeñarte de manera autodidacta.
           </Paragraph>
